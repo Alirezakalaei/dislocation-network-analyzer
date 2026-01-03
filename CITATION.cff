@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata from this file."
+title: "Dislocation Network Analyzer"
+authors:
+  - family-names: "Kalaei"
+    given-names: "Alireza"
+    affiliation: "Department of Mechanical Engineering, The University of Hong Kong"
+
+
+version: 1.0.0
+date-released: 2026-01-03
+repository-code: "https://github.com/Alirezakalaei/dislocation-network-analyzer"
+license: MIT
+keywords:
+  - "dislocation dynamics"
+  - "computational materials science"
+  - "ParaDis"
+  - "network reconstruction"
+  - "crystallography"
